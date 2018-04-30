@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 # ------------------------------------------------------------------------------
-# [Author] skoli0
+# [Author] sharadmagar
 #          Installs PHP, PHP-Memcache PHP-Memcached modules and adds memcached
 #          web app to monitor memcached stats
 # ------------------------------------------------------------------------------

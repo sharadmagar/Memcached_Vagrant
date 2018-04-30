@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 # ------------------------------------------------------------------------------
-# [Author] skoli0
+# [Author] sharadmagar
 #          Sets reconfigures Apache2, creates self-signed certificates
 #          to run using HTTPS
 # ------------------------------------------------------------------------------

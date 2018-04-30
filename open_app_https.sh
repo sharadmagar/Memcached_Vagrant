@@ -2,7 +2,7 @@
 set -x
 
 # ------------------------------------------------------------------------------
-# [Author] skoli0
+# [Author] sharadmagar
 #          Open an app link using HTTPS in default web browser
 # ------------------------------------------------------------------------------
 echo "Curl to app link in case server is installed without GUI..."

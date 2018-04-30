@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 # -------------------------------------------------------------------------------------------
-# [Author] skoli0
+# [Author] sharadmagar
 #          Sets appropriate environmental variables, installs Apache2,
 #          configures it to run using HTTP
 # -------------------------------------------------------------------------------------------
