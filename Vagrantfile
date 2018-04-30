@@ -11,7 +11,7 @@
 
 Vagrant.configure("2") do |config|
   # Vagrant VM box, a shorthand name of a box in HashiCorp's Vagrant Cloud.
-  config.vm.box = "minimal/trusty64"
+  config.vm.box = "marcoaltieri/ubuntu-desktop-16.04-64bit"
 
   # SSH communicator type to use to connect to the guest box.
   config.vm.communicator = "ssh"
